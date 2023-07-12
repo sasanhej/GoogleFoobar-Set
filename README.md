@@ -7,3 +7,7 @@ Please feel free if you need an invitation, as my invitation code is not used ye
 Project Homepage:<br>
 https://foobar.withgoogle.com/<br>
 My work:<br>
+https://github.com/sasanhej/GoogleFoobar-Set/blob/main/Foobar%202-1.py<br>
+https://github.com/sasanhej/GoogleFoobar-Set/blob/main/Foobar%202-2.py<br>
+https://github.com/sasanhej/GoogleFoobar-Set/blob/main/Foobar%203-1.py<br>
+https://github.com/sasanhej/GoogleFoobar-Set/blob/main/Foobar%203-2.py<br>
