@@ -13,10 +13,3 @@ def solution(i):
     for k in right_arrow:
         total += sum(left_arrow[k:])
     return total*2
-
-
-
-
-
-
-
